@@ -1,6 +1,8 @@
 .btn.rounded-pill{
     background-color: #21b573;
     color: #f0fff0;
+    padding-left: 15px;
+    padding-right: 15px;
     
 }
 .container{
